@@ -6337,4 +6337,4 @@ https://github.com/sivaadchu/SmartCard
 https://github.com/zimbora/esp32-sysfile
 https://github.com/zimbora/esp32-alarm
 https://github.com/zimbora/esp32-autorequest
-https://github.com/hasenradball/DS3231_RTC
+https://github.com/hasenradball/DS3231-RTC
